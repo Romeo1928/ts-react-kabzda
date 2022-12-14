@@ -11,7 +11,6 @@ function App() {
 		<div>
 			<PageTitle title={"This is APP component"}/>
 			<PageTitle title={"My friends"}/>
-			<PageTitle title={"Peoples"}/>
 			Article 1
 			<Rating value={3}/>
 			<Accordion titleValue={"Меню"} collapsed={true}/>
