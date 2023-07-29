@@ -1,0 +1,48 @@
+.body {
+	margin-bottom: 5px;
+}
+
+.on {
+	width: 30px;
+	height: 20px;
+	background-color: green;
+	text-align: center;
+	display: inline-block;
+	padding: 2px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.off {
+	width: 30px;
+	height: 20px;
+	background-color: red;
+	text-align: center;
+	display: inline-block;
+	margin-left: 5px;
+	padding: 2px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.roundOn {
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	border: 1px solid black;
+	display: inline-block;
+	margin-left: 5px;
+	background-color: green;
+	display: inline-block;
+}
+
+.roundOff {
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	border: 1px solid black;
+	display: inline-block;
+	margin-left: 5px;
+	background-color: red;
+	display: inline-block;
+}
